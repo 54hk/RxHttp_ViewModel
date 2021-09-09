@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common:2.3.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/1c7c97dfb30a673be7d5a2a192351ae9/transformed/navigation-common-2.3.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/1c7c97dfb30a673be7d5a2a192351ae9/transformed/navigation-common-2.3.2/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/1c7c97dfb30a673be7d5a2a192351ae9/transformed/navigation-common-2.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.3.2/54fdad7d85870fcafa4a103065b329e959dcd43/navigation-common-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

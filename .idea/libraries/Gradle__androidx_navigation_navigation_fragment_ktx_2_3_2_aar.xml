@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-fragment-ktx:2.3.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/857be8bba1cbdab11d16cc24309d250b/transformed/navigation-fragment-ktx-2.3.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/857be8bba1cbdab11d16cc24309d250b/transformed/navigation-fragment-ktx-2.3.2/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/857be8bba1cbdab11d16cc24309d250b/transformed/navigation-fragment-ktx-2.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment-ktx/2.3.2/9bebacd34921c1dd65c0cf5ceb32f70e8c7b17b9/navigation-fragment-ktx-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

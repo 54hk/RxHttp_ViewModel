@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-testing:2.3.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/799348962cedb4f4756ef2b84032d2d2/transformed/jetified-navigation-testing-2.3.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/799348962cedb4f4756ef2b84032d2d2/transformed/jetified-navigation-testing-2.3.2/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/799348962cedb4f4756ef2b84032d2d2/transformed/jetified-navigation-testing-2.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.navigation/navigation-testing/2.3.2/a29af714846d56357a9a2905d96686d212d69d0d/navigation-testing-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zackratos.ultimatebarx:ultimatebarx:0.6.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/12eecc60d21cf0f8ebf6da2c2423bdc4/transformed/jetified-ultimatebarx-0.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/12eecc60d21cf0f8ebf6da2c2423bdc4/transformed/jetified-ultimatebarx-0.6.0/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/12eecc60d21cf0f8ebf6da2c2423bdc4/transformed/jetified-ultimatebarx-0.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/com.zackratos.ultimatebarx/ultimatebarx/0.6.0/bf3b48f68679b2c5fdc9b6de7574db06e5678ae6/ultimatebarx-0.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/com.zackratos.ultimatebarx/ultimatebarx/0.6.0/13dd666214ec1eda3ba7ddb79b09e2fd4d1ed0b9/ultimatebarx-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

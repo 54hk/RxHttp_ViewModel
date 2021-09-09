@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.0-alpha01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/ed91f562000e2a18bad9183ad570ee94/transformed/lifecycle-runtime-2.3.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/ed91f562000e2a18bad9183ad570ee94/transformed/lifecycle-runtime-2.3.0-alpha01/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/ed91f562000e2a18bad9183ad570ee94/transformed/lifecycle-runtime-2.3.0-alpha01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.3.0-alpha01/5c275f4f0c2694bd342ac631ff65638c5e044b7e/lifecycle-runtime-2.3.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

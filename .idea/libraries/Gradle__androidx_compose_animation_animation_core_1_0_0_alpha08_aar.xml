@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.animation:animation-core:1.0.0-alpha08@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/ca0b654ba477e64b65c5ca1584ae34a8/transformed/jetified-animation-core-1.0.0-alpha08/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/ca0b654ba477e64b65c5ca1584ae34a8/transformed/jetified-animation-core-1.0.0-alpha08/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/ca0b654ba477e64b65c5ca1584ae34a8/transformed/jetified-animation-core-1.0.0-alpha08/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.compose.animation/animation-core/1.0.0-alpha08/7abceae10ae407a1bdb8764ff406618a196f8158/animation-core-1.0.0-alpha08-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

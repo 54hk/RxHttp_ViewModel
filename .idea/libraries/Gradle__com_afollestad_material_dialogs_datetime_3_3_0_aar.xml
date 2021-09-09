@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:datetime:3.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/5ac0974565f60f76d9ee508147abf9ad/transformed/jetified-datetime-3.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/5ac0974565f60f76d9ee508147abf9ad/transformed/jetified-datetime-3.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/5ac0974565f60f76d9ee508147abf9ad/transformed/jetified-datetime-3.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/com.afollestad.material-dialogs/datetime/3.3.0/7b05ca7c39b55bffe75d0a4baa9b3a5137464a14/datetime-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

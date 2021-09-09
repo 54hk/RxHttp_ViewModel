@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@mipmap/main_home"
+        android:title="@string/string_home" />
+    <item
+        android:id="@+id/myFragment"
+        android:enabled="true"
+        android:icon="@mipmap/main_my"
+        android:title="@string/string_create_patient_case" />
+</menu>

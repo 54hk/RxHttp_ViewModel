@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.2.0-alpha07@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/01d2897b0ffe475f08b6d1e1bfd8f2b5/transformed/jetified-activity-1.2.0-alpha07/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/01d2897b0ffe475f08b6d1e1bfd8f2b5/transformed/jetified-activity-1.2.0-alpha07/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/01d2897b0ffe475f08b6d1e1bfd8f2b5/transformed/jetified-activity-1.2.0-alpha07/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/01d2897b0ffe475f08b6d1e1bfd8f2b5/transformed/jetified-activity-1.2.0-alpha07/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.activity/activity/1.2.0-alpha07/5df3a38ff5c27dc1cf067856fcb213d07ac2089b/activity-1.2.0-alpha07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-saved-instance-state:1.0.0-alpha08@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/883712f1556dc116c8cbe6dff98c88fc/transformed/jetified-runtime-saved-instance-state-1.0.0-alpha08/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/883712f1556dc116c8cbe6dff98c88fc/transformed/jetified-runtime-saved-instance-state-1.0.0-alpha08/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/883712f1556dc116c8cbe6dff98c88fc/transformed/jetified-runtime-saved-instance-state-1.0.0-alpha08/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saved-instance-state/1.0.0-alpha08/7dd4d7784acc4bcd9c5d67e52e9536ce945c5e6e/runtime-saved-instance-state-1.0.0-alpha08-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-dynamic-features-runtime:2.3.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/71843b8ffc44e9e10a0cadb5a5c11ec6/transformed/jetified-navigation-dynamic-features-runtime-2.3.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/71843b8ffc44e9e10a0cadb5a5c11ec6/transformed/jetified-navigation-dynamic-features-runtime-2.3.2/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/71843b8ffc44e9e10a0cadb5a5c11ec6/transformed/jetified-navigation-dynamic-features-runtime-2.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.navigation/navigation-dynamic-features-runtime/2.3.2/800851d92f601cd3949e421409554dfd6b05aa89/navigation-dynamic-features-runtime-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

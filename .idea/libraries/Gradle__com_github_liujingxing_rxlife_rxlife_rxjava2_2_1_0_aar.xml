@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.liujingxing.rxlife:rxlife-rxjava2:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/5663b80c40f603afba5e6e34b6f459b5/transformed/jetified-rxlife-rxjava2-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/5663b80c40f603afba5e6e34b6f459b5/transformed/jetified-rxlife-rxjava2-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/5663b80c40f603afba5e6e34b6f459b5/transformed/jetified-rxlife-rxjava2-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/com.github.liujingxing.rxlife/rxlife-rxjava2/2.1.0/7b60393a0b41245ea40ea2447e0b97593853bc8b/rxlife-rxjava2-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

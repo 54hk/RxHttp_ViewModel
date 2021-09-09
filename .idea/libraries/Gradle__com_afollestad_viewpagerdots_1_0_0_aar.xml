@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad:viewpagerdots:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/a3b8a29f22fd572e40439fb759560780/transformed/jetified-viewpagerdots-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/a3b8a29f22fd572e40439fb759560780/transformed/jetified-viewpagerdots-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/a3b8a29f22fd572e40439fb759560780/transformed/jetified-viewpagerdots-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/com.afollestad/viewpagerdots/1.0.0/6cae02042717f2206aeb919c7fd1a5d944ad9d29/viewpagerdots-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/com.afollestad/viewpagerdots/1.0.0/728c56f17daacca04b994244f0b74850f3bd6d1f/viewpagerdots-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

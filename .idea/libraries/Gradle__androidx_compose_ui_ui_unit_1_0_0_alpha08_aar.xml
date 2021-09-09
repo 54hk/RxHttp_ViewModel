@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-unit:1.0.0-alpha08@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/fa680534af11c4d43a72eed03e8048ee/transformed/jetified-ui-unit-1.0.0-alpha08/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/fa680534af11c4d43a72eed03e8048ee/transformed/jetified-ui-unit-1.0.0-alpha08/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/fa680534af11c4d43a72eed03e8048ee/transformed/jetified-ui-unit-1.0.0-alpha08/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit/1.0.0-alpha08/47b25069000bb43b0a7554251e672a23fa1c8096/ui-unit-1.0.0-alpha08-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:core:1.7.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/227262ee1c7b7160d9d6be5739beef43/transformed/jetified-core-1.7.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/227262ee1c7b7160d9d6be5739beef43/transformed/jetified-core-1.7.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/227262ee1c7b7160d9d6be5739beef43/transformed/jetified-core-1.7.2/res" />
+      <root url="file://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/transforms-3/227262ee1c7b7160d9d6be5739beef43/transformed/jetified-core-1.7.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Andoid_Code/Bluetooth/classBlueTooth/android_Bluetooth/Android-ble-master/CardioChek/caches/modules-2/files-2.1/com.google.android.play/core/1.7.2/f8a30b7236b47ed744c1ad0876e4d48cdf460d55/core-1.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
